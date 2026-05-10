@@ -8,7 +8,7 @@
       "fast"
     ],
     "status": "up",
-    "response_ms": 3,
+    "response_ms": 5,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -62,7 +62,7 @@
       "doh"
     ],
     "status": "up",
-    "response_ms": 426,
+    "response_ms": 131,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -74,7 +74,7 @@
       "stable"
     ],
     "status": "up",
-    "response_ms": 13,
+    "response_ms": 3,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -86,7 +86,7 @@
       "stable"
     ],
     "status": "up",
-    "response_ms": 12,
+    "response_ms": 2,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -99,7 +99,7 @@
       "security"
     ],
     "status": "up",
-    "response_ms": 13,
+    "response_ms": 2,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -125,7 +125,7 @@
       "family-block"
     ],
     "status": "up",
-    "response_ms": 13,
+    "response_ms": 44,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -143,19 +143,6 @@
     "blocks_malware": false
   },
   {
-    "name": "AdGuard DNS",
-    "ip": "94.140.14.14",
-    "type": "filtering",
-    "features": [
-      "privacy",
-      "ad-block"
-    ],
-    "status": "up",
-    "response_ms": 207,
-    "blocks_ads": true,
-    "blocks_malware": false
-  },
-  {
     "name": "AdGuard DNS (Family)",
     "ip": "94.140.14.15",
     "type": "filtering",
@@ -166,8 +153,8 @@
       "family-block"
     ],
     "status": "up",
-    "response_ms": 208,
-    "blocks_ads": true,
+    "response_ms": 293,
+    "blocks_ads": false,
     "blocks_malware": false
   },
   {
@@ -179,7 +166,7 @@
       "malware-block"
     ],
     "status": "up",
-    "response_ms": 4,
+    "response_ms": 10,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -193,7 +180,7 @@
       "family-block"
     ],
     "status": "up",
-    "response_ms": 3,
+    "response_ms": 8,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -206,7 +193,7 @@
       "security"
     ],
     "status": "up",
-    "response_ms": 3,
+    "response_ms": 9,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -219,7 +206,7 @@
       "malware-block"
     ],
     "status": "up",
-    "response_ms": 4,
+    "response_ms": 123,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -232,21 +219,7 @@
       "fast-tr"
     ],
     "status": "up",
-    "response_ms": 146,
-    "blocks_ads": false,
-    "blocks_malware": false
-  },
-  {
-    "name": "Yandex.DNS (Safe)",
-    "ip": "77.88.8.7",
-    "type": "filtering",
-    "features": [
-      "stable",
-      "malware-block",
-      "family-block"
-    ],
-    "status": "up",
-    "response_ms": 159,
+    "response_ms": 698,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -259,7 +232,7 @@
       "security"
     ],
     "status": "up",
-    "response_ms": 21,
+    "response_ms": 5,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -272,7 +245,7 @@
       "security"
     ],
     "status": "up",
-    "response_ms": 15,
+    "response_ms": 13,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -285,7 +258,7 @@
       "fast"
     ],
     "status": "up",
-    "response_ms": 5,
+    "response_ms": 10,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -298,7 +271,7 @@
       "fast"
     ],
     "status": "up",
-    "response_ms": 4,
+    "response_ms": 3,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -313,7 +286,7 @@
       "customizable"
     ],
     "status": "up",
-    "response_ms": 217,
+    "response_ms": 59,
     "blocks_ads": false,
     "blocks_malware": false
   }
