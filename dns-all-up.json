@@ -8,7 +8,7 @@
       "fast"
     ],
     "status": "up",
-    "response_ms": 9,
+    "response_ms": 10,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -21,7 +21,7 @@
       "fast"
     ],
     "status": "up",
-    "response_ms": 11,
+    "response_ms": 9,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -34,7 +34,21 @@
       "malware-block"
     ],
     "status": "up",
-    "response_ms": 14,
+    "response_ms": 18,
+    "blocks_ads": false,
+    "blocks_malware": true
+  },
+  {
+    "name": "Cloudflare (Family)",
+    "ip": "1.1.1.3",
+    "type": "filtering",
+    "features": [
+      "privacy",
+      "malware-block",
+      "family-block"
+    ],
+    "status": "up",
+    "response_ms": 11,
     "blocks_ads": false,
     "blocks_malware": true
   },
@@ -48,7 +62,7 @@
       "doh"
     ],
     "status": "up",
-    "response_ms": 85,
+    "response_ms": 64,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -60,7 +74,7 @@
       "stable"
     ],
     "status": "up",
-    "response_ms": 19,
+    "response_ms": 12,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -72,7 +86,7 @@
       "stable"
     ],
     "status": "up",
-    "response_ms": 27,
+    "response_ms": 13,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -85,7 +99,7 @@
       "security"
     ],
     "status": "up",
-    "response_ms": 25,
+    "response_ms": 40,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -98,7 +112,7 @@
       "security"
     ],
     "status": "up",
-    "response_ms": 17,
+    "response_ms": 46,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -111,7 +125,7 @@
       "family-block"
     ],
     "status": "up",
-    "response_ms": 22,
+    "response_ms": 45,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -124,7 +138,7 @@
       "malware-block"
     ],
     "status": "up",
-    "response_ms": 12,
+    "response_ms": 9,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -137,7 +151,7 @@
       "ad-block"
     ],
     "status": "up",
-    "response_ms": 22,
+    "response_ms": 9,
     "blocks_ads": true,
     "blocks_malware": false
   },
@@ -152,7 +166,7 @@
       "family-block"
     ],
     "status": "up",
-    "response_ms": 21,
+    "response_ms": 9,
     "blocks_ads": true,
     "blocks_malware": false
   },
@@ -165,7 +179,7 @@
       "malware-block"
     ],
     "status": "up",
-    "response_ms": 21,
+    "response_ms": 8,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -179,7 +193,7 @@
       "family-block"
     ],
     "status": "up",
-    "response_ms": 16,
+    "response_ms": 8,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -192,7 +206,7 @@
       "security"
     ],
     "status": "up",
-    "response_ms": 20,
+    "response_ms": 16,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -205,20 +219,7 @@
       "malware-block"
     ],
     "status": "up",
-    "response_ms": 19,
-    "blocks_ads": false,
-    "blocks_malware": false
-  },
-  {
-    "name": "DNS.WATCH",
-    "ip": "84.200.69.80",
-    "type": "standard",
-    "features": [
-      "privacy",
-      "no-logs"
-    ],
-    "status": "up",
-    "response_ms": 120,
+    "response_ms": 10,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -231,7 +232,7 @@
       "fast-tr"
     ],
     "status": "up",
-    "response_ms": 205,
+    "response_ms": 224,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -245,7 +246,7 @@
       "family-block"
     ],
     "status": "up",
-    "response_ms": 194,
+    "response_ms": 199,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -258,7 +259,7 @@
       "security"
     ],
     "status": "up",
-    "response_ms": 24,
+    "response_ms": 16,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -271,7 +272,7 @@
       "security"
     ],
     "status": "up",
-    "response_ms": 14,
+    "response_ms": 9,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -284,7 +285,7 @@
       "fast"
     ],
     "status": "up",
-    "response_ms": 21,
+    "response_ms": 10,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -297,7 +298,7 @@
       "fast"
     ],
     "status": "up",
-    "response_ms": 15,
+    "response_ms": 9,
     "blocks_ads": false,
     "blocks_malware": false
   },
@@ -312,7 +313,7 @@
       "customizable"
     ],
     "status": "up",
-    "response_ms": 157,
+    "response_ms": 183,
     "blocks_ads": false,
     "blocks_malware": false
   }
